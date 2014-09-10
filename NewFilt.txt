@@ -1,1 +1,2 @@
 * This is a new file for GitHub.
+Added a new line of code.
